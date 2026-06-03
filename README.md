@@ -1,16 +1,15 @@
-## Hi there 👋
+# Merhaba! Ben Emirhan 👋
 
-<!--
-**Emirhan-Tok/Emirhan-Tok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hitit Üniversitesi'nde Bilgisayar Programcılığı okuyorum. Yazılım dünyasına giriş yaptım ve her geçen gün kendimi geliştiriyorum. 🚀
 
-Here are some ideas to get you started:
+### Hakkımda
+- 🎓 Bilgisayar Programcılığı öğrencisi
+- 💻 C# ve Algoritma temelleri üzerine çalışıyorum
+- 🛠️ Şu sıralar öğrendiğim her şeyi GitHub'da düzenli projeler olarak belgeliyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Kullandığım Teknolojiler
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+---
+*Bu profil, düzenli kod yazma ve gelişim sürecimi yansıtmak amacıyla oluşturulmuştur.*
