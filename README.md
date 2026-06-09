@@ -6,7 +6,7 @@ Hitit Üniversitesi'nde Bilgisayar Programcılığı okuyorum. Gerçek hayat pro
 - 🎓 Bilgisayar Programcılığı öğrencisi
 - 💻 C# ve Algoritma temelleri üzerine çalışıyorum
 - 📂 Şu sıralar öğrendiğim her şeyi GitHub'da düzenli projeler olarak belgeliyorum.
-- ✉️ Bana ulaşın: rc9mhfg4b8@privaterelay.appleid.com
+- ✉️ Bana ulaşın: emirhantok52@gmail.com
 
 ### 🚀 Kullandığım Teknolojiler
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
